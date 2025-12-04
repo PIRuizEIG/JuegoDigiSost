@@ -1,5 +1,6 @@
 ﻿<Solution>
   <Project Path="com.flipbookgames.scriptinspector3.csproj" />
   <Project Path="FullscreenEditor.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
   <Project Path="Assembly-CSharp-Editor.csproj" />
 </Solution>

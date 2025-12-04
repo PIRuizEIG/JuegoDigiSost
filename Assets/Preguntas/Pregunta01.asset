@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7e2d7b4029ead7459318ac9ab0771cc, type: 3}
+  m_Name: Pregunta01
+  m_EditorClassIdentifier: 
+  textoPregunta: "\xBFCu\xE1l es la tecnolog\xEDa fundamental que permite a un \xFAnico
+    servidor f\xEDsico alojar m\xFAltiples sistemas operativos y aplicaciones de
+    forma aislada, haciendo que el Cloud Computing sea econ\xF3micamente viable?"
+  respuestas:
+  - Centros de datos
+  - "Nube P\xFAblica"
+  - "Virtualizaci\xF3n"
+  respuestaCorrecta: 2
+  textoPista: "Piensa en el software que act\xFAa como una capa intermedia entre
+    el hardware f\xEDsico y los sistemas operativos de los clientes."
