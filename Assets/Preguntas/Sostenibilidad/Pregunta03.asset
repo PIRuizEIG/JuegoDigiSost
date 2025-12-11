@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7e2d7b4029ead7459318ac9ab0771cc, type: 3}
+  m_Name: Pregunta03
+  m_EditorClassIdentifier: 
+  textoPregunta: "\xBFQu\xE9 dificultad principal enfrentan los Estados Miembros
+    de la UE en la aplicaci\xF3n de los indicadores de ruido subacu\xE1tico seg\xFAn
+    el Subgrupo T\xE9cnico sobre Ruido?  "
+  respuestas:
+  - "No se ha definido un nivel de base o de referencia para el ruido antropog\xE9nico."
+  - "La oposici\xF3n de la industria del transporte mar\xEDtimo a cualquier regulaci\xF3n."
+  - "La falta de tecnolog\xEDa para medir el sonido bajo el agua."
+  respuestaCorrecta: 0
+  textoPista: "Para medir un cambio, primero necesitas saber desde d\xF3nde est\xE1s
+    empezando. \xBFQu\xE9 falta en la monitorizaci\xF3n del ruido?"
